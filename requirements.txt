@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+requests
+SQLAlchemy
+joblib
+numpy
+scikit-learn
+python-dotenv
+osmnx
+networkx
+geopy
+xgboost
+google-genai
