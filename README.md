@@ -58,3 +58,7 @@ This project is a Machine Learning-based Eco-Routing System designed to optimize
 1. Clone the repository  
    ```bash
    git clone https://github.com/AbbinayaP/ECO-ROUTING
+
+
+   ⚠️ Note: API keys are not included for security reasons.
+Create a `.env` file and add your keys.
